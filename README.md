@@ -18,7 +18,7 @@ Un proyecto de Machine Learning que busca realizar predicciónes sobre el crecim
 
 ---
 
-### [Ingeniería de Software](https://github.com/AbigailBG153/Ing_Software)
+### [Nutrilife-Frontend](https://github.com/AbigailBG153/Ing_Software)
 Un proyecto desarrollado con un desarrollo ágil, integrado con la API mencionada anteriormente.
 **Tecnologías utilizadas:** Angular, Typescript.  
 [Visitar el repositorio](https://github.com/AbigailBG153/Ing_Software)
