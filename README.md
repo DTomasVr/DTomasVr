@@ -1,16 +1,50 @@
-## Hi there 👋
+# ¡Hola! 👋 Bienvenido a mi perfil
 
-<!--
-**DTomasVr/DTomasVr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ciencias de la Computación que le gusta trabajar en proyectos desafiantes. Aquí encontrarás algunos de los proyectos en los que he trabajado recientemente.
 
-Here are some ideas to get you started:
+## 🌟 Repositorios Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [NutrilifeAPI](https://github.com/DTomasVr/NutrilifeAPI)
+Una API diseñada para facilitar la gestión de planes de alimentación y el seguimiento nutricional.  
+**Tecnologías utilizadas:** Java, Springboot(maven).  
+[Visitar el repositorio](https://github.com/DTomasVr/NutrilifeAPI)
+
+---
+
+### [Machine Learning - Proyecto](https://github.com/AbigailBG153/Maching_Learning-Proyecto-)
+Un proyecto de Machine Learning que busca realizar predicciónes sobre el crecimiento o disminución del valor de criptoactivos.
+**Tecnologías utilizadas:** Python, Tensorflow, Pandas, Jupyter Notebook.  
+[Visitar el repositorio](https://github.com/AbigailBG153/Maching_Learning-Proyecto-)
+
+---
+
+### [Ingeniería de Software](https://github.com/AbigailBG153/Ing_Software)
+Un proyecto desarrollado con un desarrollo ágil, integrado con la API mencionada anteriormente.
+**Tecnologías utilizadas:** Angular, Typescript.  
+[Visitar el repositorio](https://github.com/AbigailBG153/Ing_Software)
+
+---
+
+## 🔧 Tecnologías y Herramientas
+
+### Desarrollo web y Software  
+- **Lenguajes:** C++, Python, Java, HTML, CSS, JavaScript, Typescript
+- **Frameworks:** Angular, NodeJS  
+
+### Bases de Datos  
+- SQL Server, PostgreSQL, MySQL, MongoDB  
+
+### Análisis de Datos  
+- Excel, Python, Pandas, R  
+
+### Machine Learning  
+- TensorFlow, PyTorch  
+
+### Sistemas Operativos  
+- Linux, Windows  
+
+### Otras Herramientas  
+- Azure, AWS, Docker  
+
+## 📫 Contáctame  
+- Correo electrónico: [diego.villafuerte.2033@gmail.com](mailto:diego.villafuerte.2033@gmail.com)
